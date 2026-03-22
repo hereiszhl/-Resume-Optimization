@@ -1,0 +1,237 @@
+{
+  "name": "朱泓霖",
+  "phone": "187-7507-8528",
+  "email": "hereiszhl@163.com",
+  "location": "未提及",
+  "education": [
+    {
+      "school": "深圳大学",
+      "degree": "硕士",
+      "major": "地理信息与智慧城市",
+      "gpa": "排名1/18",
+      "start_date": "2024.09",
+      "end_date": "2027.06",
+      "highlights": [
+        "研一成绩排名1/18",
+        "保研至深圳大学"
+      ]
+    },
+    {
+      "school": "西南交通大学 (211)",
+      "degree": "本科",
+      "major": "城乡规划",
+      "gpa": "排名2/44",
+      "start_date": "2019.09",
+      "end_date": "2024.06",
+      "highlights": [
+        "本科成绩排名2/44",
+        "保研至深圳大学"
+      ]
+    }
+  ],
+  "internships": [
+    {
+      "title": "助理数据分析师",
+      "organization": "武汉市规划设计研究院",
+      "start_date": "2023年8月",
+      "end_date": "2024年5月",
+      "description": "数据处理与地理空间分析；行业大模型训练",
+      "key_points": [
+        "爬取武汉市南湖环大学城8类POI核心数据（10万+条），整合写字楼租赁数据集（300+条）",
+        "运用GeoPandas、Kepler绘制15张地理分析图，输出5页量化分析报告",
+        "参与开发行业垂直大模型WPDIGPT，整合5000+份政策文件构建语料库",
+        "设计Python脚本实现文档格式转换，提高训练集整理速度80%以上"
+      ],
+      "technologies": [
+        "Python",
+        "GeoPandas",
+        "Kepler",
+        "Data Cleaning",
+        "LLM Training"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Urban Cup 2025",
+      "organization": "Urban Cup",
+      "start_date": "2025年7月",
+      "end_date": "2025年8月",
+      "description": "AI Agent构建与算法设计",
+      "key_points": [
+        "设计并落地3类智能体（人群画像、出行意图、出行顺序），无训练数据下预测合理性达97.3%",
+        "设计混合决策框架，引入时间槽吸引力调制机制",
+        "构建异步批量调用框架，通过本地缓存减少重复计算，效率提升40%+",
+        "设计鲁棒性JSON解析逻辑，解决LLM输出格式不一致问题"
+      ],
+      "technologies": [
+        "AI Agent",
+        "LLM",
+        "Python",
+        "API Integration",
+        "Regex"
+      ]
+    },
+    {
+      "title": "西南交通大学ROBOCON机器人校队",
+      "organization": "西南交通大学",
+      "start_date": "2020年8月",
+      "end_date": "2022年9月",
+      "description": "协调组组员→队长，负责跨校协作与赛训管理",
+      "key_points": [
+        "牵头搭建“西南高校ROBONCON技术联盟”，共享200+份赛训资料",
+        "统筹30+队员分工，制定月进度计划，确保机器人组装调试提前10天完成",
+        "成功申请15万元+/年赛事经费，带队斩获全国一等奖1项、三等奖2项"
+      ],
+      "technologies": [
+        "Project Management",
+        "Team Leadership",
+        "AIGC"
+      ]
+    }
+  ],
+  "research": [
+    {
+      "title": "基于大语言模型的城市人类轨迹模拟",
+      "organization": "深圳大学",
+      "start_date": "2025年11月",
+      "end_date": "2026年1月",
+      "description": "RAG构建与Agent设计",
+      "key_points": [
+        "设计“向量化检索+LLM重排序”两阶段方案，将候选集从250个精简至25个",
+        "构建“分工协作型三智能体框架”，实现“数据-约束-决策”的全链路闭环"
+      ],
+      "technologies": [
+        "RAG",
+        "BCE Embedding",
+        "Cosine Similarity",
+        "Chain of Thought"
+      ]
+    },
+    {
+      "title": "一带一路农业贸易网络中结构再平衡与效率驱动转型的实证",
+      "organization": "深圳大学",
+      "start_date": "2025年1月",
+      "end_date": "2025年11月",
+      "description": "分析框架设计与量化建模",
+      "key_points": [
+        "创新设计“小世界特性+无标度特征+社区性”动态耦合分析框架",
+        "采用AutoGluon开展相关性分析，通过SHAP识别核心驱动因素"
+      ],
+      "technologies": [
+        "Bayesian Model",
+        "AutoGluon",
+        "SHAP",
+        "Network Analysis"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "category": "外语",
+      "skills": [
+        "CET6"
+      ],
+      "proficiency": "通过"
+    },
+    {
+      "category": "软件与应用",
+      "skills": [
+        "ArcGIS",
+        "Office",
+        "PS"
+      ],
+      "proficiency": "熟练运用"
+    },
+    {
+      "category": "数据与开发",
+      "skills": [
+        "Python",
+        "数据分析",
+        "RAG",
+        "大模型应用开发",
+        "GeoPandas",
+        "Kepler"
+      ],
+      "proficiency": "掌握"
+    }
+  ],
+  "awards": [
+    "2020-2021、2021-2022年度国家奖学金",
+    "2024校级特等奖学金",
+    "2025校级一等奖学金",
+    "第二届全国大学生国土空间规划设计竞赛最佳分析奖",
+    "第二十一届全国大学生机器人大赛全国一等奖",
+    "第八届全国大学生BIM毕业设计创新大赛全国特等奖",
+    "第23届SuperMap杯高校GIS大赛命题开发组二等奖"
+  ],
+  "activities": [
+    "成都市三下乡社会实践市级优秀团队",
+    "西南高校ROBONCON技术联盟发起人",
+    "校队公众号运营（阅览量2000+）"
+  ],
+  "self_evaluation": "沟通表达、数据分析与可视化、学习迁移能力",
+  "skill_scores": [
+    {
+      "dimension": "技术深度",
+      "score": 8,
+      "evidence": "熟练运用Python进行数据清洗、爬虫及脚本开发；掌握RAG、LLM Agent构建、向量检索等前沿AI技术；能使用AutoGluon、SHAP进行复杂建模与解释。",
+      "suggestion": "可进一步补充底层算法原理的理解，或展示更多关于模型部署、性能优化的具体细节。"
+    },
+    {
+      "dimension": "项目质量",
+      "score": 9,
+      "evidence": "Urban Cup获HONORABLE MENTION；SCI一区TOP及北大核心期刊论文在投；ROBOCON全国一等奖；BIM设计大赛全国特等奖。项目创新性强，成果丰硕。",
+      "suggestion": "继续保持高水平产出，可尝试将项目成果转化为实际落地的产品或开源项目，增加社会影响力。"
+    },
+    {
+      "dimension": "科研能力",
+      "score": 9,
+      "evidence": "两篇高质量论文在投（SCI一区TOP、北大核心）；熟练运用贝叶斯模型、AutoGluon、SHAP等科研方法；具备独立设计分析框架和实证研究的能力。",
+      "suggestion": "关注论文的最终发表情况，并在简历中及时更新。"
+    },
+    {
+      "dimension": "表达清晰度",
+      "score": 8,
+      "evidence": "简历结构清晰，使用STAR法则描述经历；大量使用数据量化成果（如“10万+条”、“80%以上”、“97.3%”）；专业术语使用准确。",
+      "suggestion": "部分项目描述中技术细节较多，可适当增加对项目背景和个人独特贡献的宏观描述，使非技术类面试官也能快速抓住重点。"
+    },
+    {
+      "dimension": "学历背景",
+      "score": 8,
+      "evidence": "本科211院校，硕士深圳大学；本科排名2/44，硕士排名1/18；多次获得国家奖学金及校级特等奖学金。",
+      "suggestion": "学历背景已非常优秀，建议在面试中着重展示跨学科（城乡规划+GIS+AI）的优势。"
+    },
+    {
+      "dimension": "实习经验",
+      "score": 7,
+      "evidence": "拥有一段在武汉市规划设计研究院的长期实习（9个月），参与了核心的数据分析和大模型训练工作，工作内容含金量高。",
+      "suggestion": "实习经历数量较少（仅一段），虽然质量很高，但若能增加互联网大厂或科技公司的实习经历，将更利于申请算法/数据类岗位。"
+    },
+    {
+      "dimension": "软技能",
+      "score": 9,
+      "evidence": "担任ROBOCON队长，统筹30+人团队，成功申请15万+经费；牵头组建跨校技术联盟；具备优秀的领导力、沟通协调能力和团队凝聚力。",
+      "suggestion": "在简历中可以更突出地展示在跨学科团队中如何发挥沟通桥梁作用，促进技术与业务的融合。"
+    },
+    {
+      "dimension": "成果量化",
+      "score": 9,
+      "evidence": "几乎所有经历都有量化数据支撑，如“10万+条POI”、“效率提升80%”、“预测合理性97.3%”、“经费15万元+”、“排名1/18”等。",
+      "suggestion": "量化能力已非常出色，无需特别改进。"
+    }
+  ],
+  "overall_score": 8.4,
+  "strengths": [
+    "极强的跨学科背景，融合城乡规划、GIS与人工智能技术",
+    "科研与竞赛成果丰硕，有高质量论文在投及国家级奖项",
+    "出色的领导力与团队管理经验，曾统筹大型团队并成功拉赞助",
+    "简历表达极佳，善于用数据量化工作成果"
+  ],
+  "weaknesses": [
+    "实习经历主要集中在规划设计院，缺乏纯互联网或科技企业的实习背景",
+    "部分项目时间标注为未来时间（如2025-2026），需注意时间线的逻辑性（若是模拟简历则无妨）",
+    "技术栈虽广，但相对于计算机科班出身，可能在底层算法工程化方面稍显薄弱"
+  ],
+  "summary": "具备“规划+GIS+AI”复合背景的优秀候选人，科研产出与竞赛成绩突出，拥有极强的数据量化能力和领导力，适合高阶数据分析或AI应用落地岗位。"
+}

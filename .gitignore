@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+.conda/
+
+# Environment variables
+.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime outputs
+outputs/logs/
+
+# Sensitive local data
+data/shixiseng_cookies.json

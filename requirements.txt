@@ -1,0 +1,20 @@
+# LLM & Agent Framework
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+openai>=1.0.0
+
+# Data Validation
+pydantic>=2.0.0
+
+# PDF Parsing
+pdfplumber>=0.10.0
+
+# Web Scraping (optional, for auto mode)
+playwright>=1.40.0
+
+# Config
+python-dotenv>=1.0.0
+
+# Utilities
+rich>=13.0.0
